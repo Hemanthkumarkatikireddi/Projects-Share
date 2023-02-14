@@ -1,5 +1,7 @@
 The goal of this coding exam is to quickly get you off the ground with **setState Callback Function**.
 
+projects Link : https://projectsharehk.ccbp.tech
+
 ### Refer to the video and image below:
 
 <div style="text-align: center;">
@@ -158,7 +160,4 @@ Returns a response containing the list of all projects
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
+
